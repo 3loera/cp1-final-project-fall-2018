@@ -1,10 +1,10 @@
 NB: You might find useful the [sample proposal for a software/hardware project](https://github.com/zamfi/cca-programming-electronics-fall-2017/blob/master/hw/sample-proposal.md) useful in completing this assignment!
 
-# Your Project Title Here
+gun violence
 
 One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
 
-## Summary
+Make a robot that rolls across a white poster, leaving a mark fir every mass shooting that has happened in the US in 2018.
 
 Here, write a paragraph or two describing what you built for your final project and what was challenging. 
 
